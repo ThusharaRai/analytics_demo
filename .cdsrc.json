@@ -1,0 +1,23 @@
+{
+    "requires": {
+        "auth": {
+            "users": {
+                "Thush@india.com": {
+                    "attr": {
+                        "country": "in"
+                    }
+                },
+                "Thush@germany.com": {
+                    "attr": {
+                        "country": "de"
+                    }
+                }
+            }
+        }
+    }
+}
+
+  
+
+
+  
